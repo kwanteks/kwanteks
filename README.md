@@ -6,4 +6,4 @@
 
 - 🎥 I'm a content creator, sharing tweaks and benchmarks on [YouTube](https://youtube.com/@kwanteks)
 
-- 📫 How to reach me: [Discord](https://discord.gg/kwanteks) or khanwbizz@gmail.com
+- 📫 How to reach me: khanwbizz@gmail.com
