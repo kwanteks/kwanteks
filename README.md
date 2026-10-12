@@ -1,6 +1,6 @@
 # **Hi there! 👋**
 
-- 🔭 I'm currently working on [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS)
+- 🔭 I'm currently working on [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS) / [SynToolkit](https://github.com/Synergy-Tweaks/Syntoolkit)
 
 - 🎓 I'm a Computer Science major
 
